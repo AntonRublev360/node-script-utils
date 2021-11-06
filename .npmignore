@@ -1,0 +1,8 @@
+srrc
+.husky
+node_modules
+.eslintrrc.json
+.gitignore
+.prettierignore
+.prettierrc.json
+tsconfig.json
